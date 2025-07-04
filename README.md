@@ -29,3 +29,4 @@ Python Intenship – Codsoft (2025)
 Across the Internet
 LinkedIn
 Dinesh@123
+https://roadmap.sh/projects/single-page-cv
